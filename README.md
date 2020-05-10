@@ -6,7 +6,7 @@ Using time series model and regression model on forecasting Bitcoin price and sh
 
   - Bitcoin data: generate from [here](https://www.coindesk.com/price/bitcoin)
   
-# Method
+# Approach
 
   - Time sereis model only
   
