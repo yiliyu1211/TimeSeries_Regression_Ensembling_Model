@@ -17,7 +17,7 @@ Using time series model and regression model on forecasting Bitcoin price and sh
   - Including visualization and arima model (p,d,q) selection
   
 
-# Showcase the power of ensembling models, particular in forecasting analysis with apparent trends that can be identified by regressions. Very welcome for further discussions!
+**Showcase the power of ensembling models, particular in forecasting analysis with apparent trends that can be identified by regressions. Very welcome for further discussions!**
 
-Yili Yu: td821211@gmail.com
+**Yili Yu: td821211@gmail.com**
   
