@@ -10,7 +10,8 @@ Using time series model and regression model on forecasting Bitcoin price and sh
 
   - Time sereis model only
   
-  - Time sereis model + regression model (regression model > residuals > imput of arima model > combined results from the two to form final predictions)
+  - Time sereis model + regression model 
+  (regression model > residuals > imput of arima model > combined results from the two to form final predictions)
   
   - Including visualization and arima model (p,d,q) selection
   
