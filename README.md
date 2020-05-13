@@ -14,7 +14,7 @@ Use time series model and regression model on forecasting Bitcoin price and show
   
     (regression model > residuals > imput of arima model > combined results from the two to form final predictions)
     
-  - Comparison of the two approach
+  - Comparison of the two approachs
   
   - Including visualization and arima model (p,d,q) selection
   
